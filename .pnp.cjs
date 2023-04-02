@@ -54,7 +54,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["reading-time", "npm:1.5.0"],\
             ["sharp", "npm:0.32.0"],\
             ["subfont", "npm:6.12.4"],\
-            ["svgo", "npm:2.8.0"],\
+            ["svgo", "npm:3.0.2"],\
             ["tailwindcss", "virtual:8155a6cfbfdfb46993d4580fc21eff83d1d0b0104b30d90fc21cb3d1cb6af424a8c7374ff66963ea16d49d22220c7d865f663773d2ac91294d0e55ae2e9a274c#npm:3.3.1"],\
             ["typescript", "patch:typescript@npm%3A5.0.3#~builtin<compat/typescript>::version=5.0.3&hash=85af82"]\
           ],\
@@ -12630,7 +12630,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["reading-time", "npm:1.5.0"],\
             ["sharp", "npm:0.32.0"],\
             ["subfont", "npm:6.12.4"],\
-            ["svgo", "npm:2.8.0"],\
+            ["svgo", "npm:3.0.2"],\
             ["tailwindcss", "virtual:8155a6cfbfdfb46993d4580fc21eff83d1d0b0104b30d90fc21cb3d1cb6af424a8c7374ff66963ea16d49d22220c7d865f663773d2ac91294d0e55ae2e9a274c#npm:3.3.1"],\
             ["typescript", "patch:typescript@npm%3A5.0.3#~builtin<compat/typescript>::version=5.0.3&hash=85af82"]\
           ],\
